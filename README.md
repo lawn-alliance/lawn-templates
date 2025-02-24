@@ -7,6 +7,7 @@
 >
 > Templates may depend on the existence of certain apps, both public and private, in order to function properly.
 > You should use these as examples only, no assistance will be given if you attempt to use them directly.
+{: .alert .alert-danger}
 
 ## Install
 
