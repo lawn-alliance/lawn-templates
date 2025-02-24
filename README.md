@@ -1,6 +1,6 @@
 # LAWN Alliance Auth template overrides
 
-> [!WARNING]
+> **Warning:**
 >
 > These template overrides are specially tailored for the alliance Get Off My Lawn [LAWN].
 > They override templates of apps we use, to adjust the look or add/augment functionality.
